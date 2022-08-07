@@ -7,7 +7,6 @@ class Mustafa {
     std::string email = "mustafaalshaer6@gmail.com",
     std::string linkedin = "",
     bool student: true,
-    std::string joke = "How does a ninja kill a non-binary person? They/Them"
     std::string interests [6] = { "Gaming", "Character Rigging", "Unreal Engine 4/5", "Unity", "Game Development", "Blueprints" },
 };
 ```
