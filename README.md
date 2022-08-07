@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**mustafa-shaer/mustafa-shaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```cpp
+class Mustafa {
+  public:
+    std::string fullName = "Mustafa Al-Shaer",
+    int age = 20,
+    std::string address = "Amman, Jordan",
+    std::string email = "mustafaalshaer6@gmail.com",
+    std::string linkedin = "",
+    bool student: true,
+    std::string joke = "How does a ninja kill a non-binary person? They/Them"
+    std::string interests [6] = { "Gaming", "Character Rigging", "Unreal Engine 4/5", "Unity", "Game Development", "Blueprints" },
+};
+```
